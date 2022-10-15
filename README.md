@@ -1,2 +1,4 @@
-# HoltelArt_ReservationProject
-Simple php website for a hotel reservation. 
+# Hotel Room Reservation Project
+Simple php website for a hotel reservation.
+
+
